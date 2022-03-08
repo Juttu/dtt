@@ -12,7 +12,7 @@ if name=="dtt":
         r1 = random.randint(0, 10)
         for i in range(1):
             i=i+1
-        st.write(r1*100)
+        st.write(r1*1000000000)
         print(r1)
         time.sleep(5)
     # print("dtt")
